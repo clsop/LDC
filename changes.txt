@@ -1,0 +1,48 @@
+Version 1.4 RC
+- TODO: New smiley box
+- TODO: fixed the deletion of regex char in emojicon on the chat input line
+- TODO: more fonts available
+
+Version 1.3 Beta
+- Splash will now show whats loading
+- Fonts are now embedded (fixes font issue on cross platform)
+- Better sample of the newly selected fonts will now show in the options dialog
+- Name shows in color now
+- Optimized packet structure
+- Now using swing layout instead of defined positions (performance upgrade)
+- unused code removed
+
+Version 1.2 Beta
+- Added a nice splash image instead of loading frame
+- Now with window icon :)
+- Fixed failure if resources could not be loaded properly
+- There is now a bar of availible smileys (the codes also still work)
+- Fixed copy/paste issue with pipe characters
+
+Version 1.1 Beta
+- More fonts available
+- Support for smileys :)
+- Fixed size in small resolution
+- Added a nice loader when quering other clients
+
+Version 1.0 Alpha
+- Colors are now consistent
+- Improved and revised chat
+- Now with font support
+- More code cleanup and optimizing
+
+Version 0.7 Alpha
+- Added unsupported JRE version support
+- Now supports resizing
+- Redefined how config file is read
+- Added support for colors
+- Fixed some more errors where still continued when an error occured
+- A little code cleanup
+
+Version 0.6 Alpha
+- Fixed a stupid error, now the program actually works :)
+- Threads closes properly now so program won't still be running after sometimes closed
+- Changed how the packetid was sent and now smaller packets (was string before)
+- Components in window will not be ridiculessly large anymore
+- Still continue on error fixed
+- Fixed some minor programming errors
